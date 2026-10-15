@@ -10,7 +10,7 @@ require (
 	github.com/opencontainers/image-spec v1.1.1
 	github.com/stretchr/testify v1.11.1
 	github.com/testcontainers/testcontainers-go v0.44.0
-	golang.org/x/sync v0.22.0
+	golang.org/x/sync v0.24.0
 	oras.land/oras-go/v2 v2.6.2
 )
 
